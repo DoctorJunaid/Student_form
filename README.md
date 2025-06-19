@@ -1,9 +1,7 @@
 # 🧑‍🎓 Student Registration Form
 
 A sleek, responsive student registration form built with **HTML**, **Tailwind CSS**, and **JavaScript**. This form allows users to register with essential details and displays the data in a dynamic table format.
-
-<img src="Screenshot_22-4-2025_21391_127.0.0.1.jpeg" alt="screenShot">
-![Student Registration Form](./assets/Screenshot_22-4-2025_21391_127.0.0.1.jpeg)
+![Student Registration Form](./Screenshot_22-4-2025_21391_127.0.0.1.jpeg)
 
 ---
 
